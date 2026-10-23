@@ -11,7 +11,6 @@ window.WEDDING_DATA = {
       script: "Mohammad Saba",
       parents: "Son of Shahid Perwez",
       note: "Son of Shahid Perwez — steady, kind and endlessly devoted.",
-      photo: "./editable/assets/groom.jpg",
     },
     bride: {
       first: "Nahid",
@@ -19,7 +18,6 @@ window.WEDDING_DATA = {
       script: "Nahid Khatun",
       parents: "Daughter of Md Ekram",
       note: "Daughter of Md Ekram — a heart full of grace and quiet light.",
-      photo: "./editable/assets/bride.jpg",
     },
   },
 
