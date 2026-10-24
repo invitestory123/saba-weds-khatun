@@ -1,5 +1,5 @@
 /**
- * bg-music.js — Background music controller for Mohammad Saba & Nahid Khatun
+ * bg-music.js — Background music controller for Mohammad Saba & Nahid
  * Provides robust audio playback across all mobile & desktop browsers.
  */
 

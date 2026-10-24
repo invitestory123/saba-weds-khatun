@@ -1,4 +1,4 @@
-# Customer Editing Guide — Mohammad Saba & Nahid Khatun
+# Customer Editing Guide — Mohammad Saba & Nahid
 
 This template is an Islamic Nikkah & Walima invitation featuring gold, parchment styling, Arabic calligraphy (Dua), couple introduction cards, live countdown timer, event details cards (Nikah and Walima ceremonies), RSVP / contact buttons, and Google Maps & calendar export.
 
@@ -11,7 +11,7 @@ All customer edits are configured in:
 
 ### Couple Profiles
 Edit `couple.groom` and `couple.bride` in `editable/wedding-data.js`:
-- `first` & `last`: First and last names (e.g. `"Mohammad"`, `"Saba"`, `"Nahid"`, `"Khatun"`)
+- `first` & `last`: First and last names (e.g. `"Mohammad"`, `"Saba"`, `"Nahid"`)
 - `script`: Traditional script designation
 - `parents`: Parents lineage line (e.g. `"Son of Shahid Perwez"`, `"Daughter of Md Ekram"`)
 - `note`: Biographical description

@@ -1,5 +1,5 @@
 /**
- * wedding-data.js — Customer-facing editable data layer for Mohammad Saba & Nahid Khatun
+ * wedding-data.js — Customer-facing editable data layer for Mohammad Saba & Nahid
  * Edit this file to update couple names, parents, dates, venue, Islamic dua, contacts, and photos.
  */
 
@@ -14,8 +14,8 @@ window.WEDDING_DATA = {
     },
     bride: {
       first: "Nahid",
-      last: "Khatun",
-      script: "Nahid Khatun",
+      last: "",
+      script: "Nahid",
       parents: "Daughter of Md Ekram",
       note: "Daughter of Md Ekram — a heart full of grace and quiet light.",
     },
