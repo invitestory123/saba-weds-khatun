@@ -87,6 +87,12 @@ window.WEDDING_DATA = {
     },
   ],
 
+  music: {
+    src: "./editable/assets/bg-music.mp3",
+    autoplay: true,
+    loop: true,
+  },
+
   images: {
     bride: "./editable/assets/bride.jpg",
     groom: "./editable/assets/groom.jpg",

@@ -45,6 +45,12 @@ Edit `contacts` in `editable/wedding-data.js`:
 - `name`: Contact person name
 - `phone`: Mobile number for direct calling & WhatsApp
 
+### Background Music
+Edit `music` in `editable/wedding-data.js`:
+- `src`: Path to background audio file (e.g. `"./editable/assets/bg-music.mp3"`)
+- `autoplay`: `true` to play automatically on first user interaction
+- `loop`: `true` to loop continuously
+
 ---
 
 ## Validation
